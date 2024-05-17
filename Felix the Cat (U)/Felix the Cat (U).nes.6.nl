@@ -1,0 +1,2 @@
+$8800#INC_HEARTS#
+$9E1E#InitFace#

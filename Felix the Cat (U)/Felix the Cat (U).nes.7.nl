@@ -1,0 +1,17 @@
+$C93A#READ_CONTROLLER#result will be at #2E
+$CC2F#CHECK_BUTTON_DOWN_PRESSED#
+$CC95#CHECK_ATTACK_BUTTON#
+$CCAB##Check if first body type
+$D011#CHECK_MOVE_BACK_BUTTON#
+$D01A#CHECK_MOVE_FORWARD_BUTTON#
+$D023#START_ACTOR_PROCESSING???#
+$D5A1##Check is any move button pressed?
+$D90F#MOVE_ACTOR?#
+$DDC3#TODO_ON_FACE_COLLISION#
+$E0B4#HitFace???#
+$E0C2#clear face lives#
+$E156#Check faces?#
+$E17F#exit Check Faces?#
+$F700##Check is time over
+$F8F4#TOGGLE_PAUSE?#
+$F934#KILL?#
